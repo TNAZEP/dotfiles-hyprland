@@ -58,7 +58,7 @@ Follow the [Quick Start Instructions from Hyprland](https://wiki.hyprland.org/Ge
 ### Default Theme
 Copy all files from the repo to your hyprland config folder, and rename `_hyprland.conf` to `hyprland.conf` .
 ```bash
-git clone https://github.com/AmadeusWM/dotfiles-hyprland.git
+git clone https://github.com/TNAZEP/dotfiles-hyprland.git
 cd dotfiles-hyprland
 cp -r ./* ~/.config/hypr
 # Rename config file
