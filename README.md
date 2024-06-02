@@ -5,7 +5,7 @@ This is based on AmadeusWM's dotfiles and is currently a straight copy, will be 
 
 # 🌸**Apatheia Dot Files**🌸
 
-![GitHub Repo stars](https://img.shields.io/github/stars/AmadeusWM/dotfiles-hyprland?style=for-the-badge&color=E08BCA) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusWM/dotfiles-hyprland?style=for-the-badge&color=E08BCA) ![GitHub repo size](https://img.shields.io/github/repo-size/AmadeusWM/dotfiles-hyprland?style=for-the-badge&color=E08BCA)
+![GitHub Repo stars](https://img.shields.io/github/stars/TNAZEP/dotfiles-hyprland?style=for-the-badge&color=E08BCA) ![GitHub last commit](https://img.shields.io/github/last-commit/TNAZEP/dotfiles-hyprland?style=for-the-badge&color=E08BCA) ![GitHub repo size](https://img.shields.io/github/repo-size/TNAZEP/dotfiles-hyprland?style=for-the-badge&color=E08BCA)
 
 
 <br/>
