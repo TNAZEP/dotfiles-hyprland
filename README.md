@@ -1,5 +1,5 @@
 # ‼️‼️‼️ Disclaimer ‼️‼️‼️
-I moved to NixOS as of 2023/07/01, so this config will not be maintained anymore.
+This is based on AmadeusWM's dotfiles and is currently a straight copy, will be updated as I make further customisations on my own.
 
 <div align="center">
 
